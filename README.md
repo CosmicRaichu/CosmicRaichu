@@ -1,7 +1,7 @@
 <img src="RaichuSmile.png" align="left" width="30%" />
 
-Welcome to my GitHub!
+Welcome to my humble abode in this hub!
 
-I am a Raichu who makes odd silicone machines do things I feel like making them do, and wishes to do so as a living.
+I am a Raichu who sees odd silicone machines and decides to make them do whatever twisted things I feel like making them do (or at least attempts to). Thinks it would be cool to do that for a living
 
-I can't say how much I will use this account for personal projects, as I am still sceptical about the whole CoPilot thing, but regardless I am happy to use this account to contribute to other projects! :3 (or not! >:3)
+I mostly work on whatever I feel like working on, so expect zero consistency in my contributions and/or projects (or lack of -w-)
